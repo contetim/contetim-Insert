@@ -1,0 +1,1 @@
+INSERT INTO song (title, artist) VALUES ('Freak-a-Leak', 'Petey Pablo');
